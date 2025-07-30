@@ -16,7 +16,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 * **Linguagens de Programação:** FoxPro, SQL, HTML, CSS, XML, CSV, Delphi
 * **Bancos de Dados:** SQL Server, MySQL, PostgreSQL, Oracle, Xbase, 
-* **Frameworks/Bibliotecas:Node.js, Angular
+* **Frameworks/Bibliotecas:** Node.js, Angular
 * **Ferramentas/Plataformas:** Git, Azure DevOps
 * **Outras Habilidades:** Integração de Sistemas, Análise de Dados, Automação, Gestão de Projetos
 
