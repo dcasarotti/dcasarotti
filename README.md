@@ -1,7 +1,6 @@
 # Olá! 👋 Sou Denis Casarotti
 
-###  Sou um profissional especialista em tecnologia, desenvolvimento de software, análise de dados, com experiência em arquitetura de sistemas legados e Banco de Dados. Meu foco criar soluções robustas, integrar   sistemas complexos, inovar com novas tecnologias já conhecidas.
-
+Sou um profissional especialista em tecnologia, desenvolvimento de software, análise de dados, com experiência em arquitetura de sistemas legados e Banco de Dados. Meu foco criar soluções robustas, integrar   sistemas complexos, inovar com novas tecnologias já conhecidas.
 Minha jornada profissional inclui atuação a mais de uma década de experiência em T.I., atuação em grandes projetos de integração entre sistema de ERP. Trabalhei em empresas como Iob-Folhamatic, Sage, Linx, Microwork e também atuei como autonomo na N&C Brasil.
 
 # 🛠️ Habilidades e Tecnologias
