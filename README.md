@@ -1,7 +1,5 @@
 # Olá! 👋 Sou Denis Casarotti
 
----
-
 ## 🚀 Sobre Mim
 
 Sou um profissional especialista em tecnologia, desenvolvimento de software, análise de dados, com experiência em arquitetura de sistemas legados e Banco de Dados. Meu foco criar soluções robustas, integrar sistemas complexos, inovar com novas tecnologias já conhecidas.
